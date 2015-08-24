@@ -55,7 +55,8 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Neural\NeuralInputs.cs" />
-    <Compile Include="Neural\NeuralOutputs.cs" />
+    <Compile Include="Neural\NeuralMap.cs" />
+    <Compile Include="Neural\NeuralOutput.cs" />
     <Compile Include="Neural\Neuron.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
